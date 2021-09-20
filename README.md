@@ -1,6 +1,6 @@
 # Funding research - scraping project
 
-###Outcome variables
+### Outcome variables
 | Variable                   | Description                                  |
 |-----------------------------------|----------------------------------------------|
 | id                                | A unique number                              |

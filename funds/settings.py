@@ -1,4 +1,4 @@
-# Scrapy settings for fund_scraping project
+# Scrapy settings for funds project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'fund_scraping'
+BOT_NAME = 'funds'
 
-SPIDER_MODULES = ['fund_scraping.spiders']
-NEWSPIDER_MODULE = 'fund_scraping.spiders'
+SPIDER_MODULES = ['funds.spiders']
+NEWSPIDER_MODULE = 'funds.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'fund_scraping (+http://www.yourdomain.com)'
+#USER_AGENT = 'funds (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -45,13 +45,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'fund_scraping.middlewares.FundScrapingSpiderMiddleware': 543,
+#    'funds.middlewares.FundScrapingSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'fund_scraping.middlewares.FundScrapingDownloaderMiddleware': 543,
+#    'funds.middlewares.FundScrapingDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'fund_scraping.pipelines.FundScrapingPipeline': 300,
+#    'funds.pipelines.FundScrapingPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
