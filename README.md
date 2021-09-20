@@ -24,3 +24,4 @@
 | funded                            | Funding received; 1/0 (yes/no)               |
 | amount_sought                     | Amount applied for                           |
 | review_score                      | Review score                                 |
+| covid_specific                    | Covid specific research; 1/0 (yes/no)        |

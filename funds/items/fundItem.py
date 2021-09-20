@@ -21,3 +21,4 @@ class FundItem(scrapy.Item):
     funded = scrapy.Field()
     amount_sought = scrapy.Field()
     review_score = scrapy.Field()
+    covid_specific = scrapy.Field()
