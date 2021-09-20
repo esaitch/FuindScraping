@@ -1,0 +1,10 @@
+.idea/
+*.jl
+*.pyc
+tmp/
+venv/
+
+/env/*
+build/
+setup.py
+project.egg-info/
