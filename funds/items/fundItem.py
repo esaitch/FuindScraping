@@ -1,0 +1,23 @@
+import scrapy
+
+class FundItem(scrapy.Item):
+    id = scrapy.Field()
+    pi = scrapy.Field()
+    co_pi = scrapy.Field()
+    pi_affiliation = scrapy.Field()
+    gender = scrapy.Field()
+    career_stage = scrapy.Field()
+    country_of_origin = scrapy.Field()
+    funder = scrapy.Field()
+    grant_programme = scrapy.Field()
+    title = scrapy.Field()
+    summary = scrapy.Field()
+    award_application_date = scrapy.Field()
+    start_date = scrapy.Field()
+    end_date = scrapy.Field()
+    amount_awarded = scrapy.Field()
+    research_area = scrapy.Field()
+    project_link = scrapy.Field()
+    funded = scrapy.Field()
+    amount_sought = scrapy.Field()
+    review_score = scrapy.Field()
