@@ -8,6 +8,7 @@ from funds.tools.scrapingTool import ScrapingTool
 
 class DanmarksFrieForskningsfondSpider(scrapy.Spider):
     name = 'dff'
+    pid = '01'
     allowed_domains = ['dff.dk']
     start_urls = ['https://dff.dk/forskningsprojekter?SearchableText=&b_size:int=0&&filed_method:list=all&instrument:list=all&period:list=f0yb7m7qxl',
                   'https://dff.dk/forskningsprojekter?SearchableText=&b_size:int=0&&filed_method:list=all&instrument:list=all&period:list=yv0jhi0awh']
@@ -40,11 +41,12 @@ class DanmarksFrieForskningsfondSpider(scrapy.Spider):
         From the covid_projects list, we can fill in the covid_specific field by comparing the title of the projects.
         '''
 
+        id = 1
         for project in response.xpath('//div[@class="result-item"]'):
             title = project.xpath('.//h2/a/text()').extract_first()
 
             all_projects = FundItem(
-                id=ScrapingTool.hash_title(title),
+                id=ScrapingTool.create_project_id(self.pid, id),
                 pi=project.xpath('.//h6[contains(.,"Modtager")]/following-sibling::div//strong/text()').extract_first().strip(),
                 co_pi=None,
                 pi_affiliation=project.xpath('.//h6[contains(.,"Modtager")]/following-sibling::div/br/following-sibling::text()').extract_first().strip(),
@@ -65,6 +67,7 @@ class DanmarksFrieForskningsfondSpider(scrapy.Spider):
                 amount_sought=None,
                 review_score=None,
             )
+            id += 1
 
             all_projects['covid_specific'] = 0
             covid_projects = response.meta['covid_projects']
