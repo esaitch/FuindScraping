@@ -1,7 +1,18 @@
 # Funding research - scraping project
 
+### Included funders
+| Funder                            | Scraping possible | Completed | Output                                                                                                    |
+|-----------------------------------|-------------------|-----------|-----------------------------------------------------------------------------------------------------------|
+| Independent Research Fund Denmark |         y         |     y     |   [dff](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/dff_output.json "dff output")   |
+| Novo Nordisk Foundation           |         y         |           |   [novo]()                                                                                                       |
+| Lundbeck Foundation               |                   |           |                                                                                                           |
+| Carlsberg Foundation              |                   |           |                                                                                                           |
+| Velux Foundation                  |                   |           |                                                                                                           |
+| (Tryg Foundation)                 |                   |           |                                                                                                           |
+| Innovation Fund Denmark           |                   |           |                                                                                                           |
+
 ### Outcome variables
-| Variable                   | Description                                  |
+| Variable                          | Description                                  |
 |-----------------------------------|----------------------------------------------|
 | id                                | A unique number                              |
 | pi                                | Name of primary applicant                    |
