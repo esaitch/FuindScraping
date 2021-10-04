@@ -4,7 +4,7 @@
 | Funder                            | Scraping possible | Completed | Output                                                                                                    |
 |-----------------------------------|-------------------|-----------|-----------------------------------------------------------------------------------------------------------|
 | Independent Research Fund Denmark |         y         |     y     |   [dff](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/dff_output.json "dff output")   |
-| Novo Nordisk Foundation           |         y         |           |   [novo]()                                                                                                       |
+| Novo Nordisk Foundation           |         y         |           |   [novo](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/novo_output.json), [novo2](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/novo2_output.json)                                                                                                       |
 | Lundbeck Foundation               |                   |           |                                                                                                           |
 | Carlsberg Foundation              |                   |           |                                                                                                           |
 | Velux Foundation                  |                   |           |                                                                                                           |
