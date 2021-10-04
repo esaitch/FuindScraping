@@ -43,7 +43,7 @@ class NovoNordisk(scrapy.Spider):
                 start_date=None,
                 end_date=None,
                 amount_awarded=re.findall(r'\d+', info.split(':')[-1].replace(',', ''))[0],
-                research_area=None,
+                research_area='Biomedical and Natural Sciences',
                 project_link=None,
                 funded=1,
                 amount_sought=None,
