@@ -10,6 +10,7 @@ from funds.tools.scrapingTool import ScrapingTool
 class LundbeckAllSpider(scrapy.Spider):
     name = 'lundbeckall'
     pid = '06'
+    start_id = 1
     allowed_domains = ['lundbeckfonden.com']
     start_urls = ['https://lundbeckfonden.com/uddelinger-priser/har-vi-stoettet/alle-bevillinger?year=All&c=All']
 
@@ -63,7 +64,6 @@ class LundbeckAllSpider(scrapy.Spider):
             )
 
     def parse_all(self, response):
-        id = 1
         covid_projects = response.meta['covid_projects']
 
         for project in response.xpath('//table/tbody/tr'):
@@ -100,7 +100,7 @@ class LundbeckAllSpider(scrapy.Spider):
             project_url = project.xpath('./td[4]/a/@href').extract_first()
 
             funditem = FundItem(
-                id=ScrapingTool.create_project_id(self.pid, id),
+                id=ScrapingTool.create_project_id(self.pid, self.start_id),
                 pi=name,
                 co_pi=None,
                 pi_affiliation=affiliation,
@@ -122,7 +122,7 @@ class LundbeckAllSpider(scrapy.Spider):
                 review_score=None,
                 covid_specific=covid_related
             )
-            id += 1
+            self.start_id += 1
 
             # yield project detail page if it exists
             if project_url:
