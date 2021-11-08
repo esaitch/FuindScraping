@@ -18,6 +18,14 @@ class RegionSjaellandSpider(scrapy.Spider):
         'DOWNLOAD_DELAY': 2
     }
 
+    '''
+    The projects can be found in a pdf on this site: 
+    https://www.regionsjaelland.dk/Sundhed/forskning/forfagfolk/forskningsfinansiering/Sider/oekonomi.aspx
+    
+    I have exported the pdf to Google Sheets, which is easier to extract data from/scrape
+    https://docs.google.com/spreadsheets/d/1BHSnYQpak2pmLfiHsuEzbDt1wmVvrTEEsuWJfMpVoPE/edit?usp=sharing 
+    '''
+
     def parse(self, response):
         for project in response.xpath('//tbody/tr[position()>1]'):
             first_name = project.xpath('./td[1]//text()').extract_first()
