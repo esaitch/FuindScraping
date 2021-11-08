@@ -15,7 +15,20 @@
 | Danish Ministry for Science and Technology|   ?       |           |
 | Tryg Foundation                   |         y         |    n      |                                                                                                           |
 | Nordea Foundation                 |         y         |    y      |  [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
-| Innovation Fund Denmark           |                   |           |
+| Innovation Fund Denmark           |         y?        |    n      |
+| Region Sjælland                   |         y         |    y      |   [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
+| Danish Heart Association          |                   |           |
+| Danish Rheumatism Association     |                   |           |
+| Elsass Foundation                 |                   |           |
+| Poul Due Jensen’s Foundation      |                   |           |
+| Augustinus Foundation             |                   |           |
+| Danish Energy Association         |                   |           |
+| Advokat Bent Thorberg’s Foundation|                   |           |
+| Danish Energy Agency              |                   |           |
+| Gangsted Foundation               |                   |           |
+| Danish Horticulture               |                   |           |
+| Danish Sugar Beet Growers         |                   |           |
+
 
 
 ### Outcome variables
