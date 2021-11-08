@@ -18,8 +18,8 @@
 | Innovation Fund Denmark           |         y?        |    n      |
 | Region Sjælland                   |         y         |    y      | [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
 | Region Hovedstaden                |         y         |    y      | [regionhovedstaden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionhovedstaden_output.json)
-| Danish Heart Association          |                   |           |
-| Danish Rheumatism Association     |                   |           |
+| Danish Heart Association          |         ?         |           |
+| Danish Rheumatism Association     |         y         |    y      | [gigtforeningen](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
 | Elsass Foundation                 |                   |           |
 | Poul Due Jensen’s Foundation      |                   |           |
 | Augustinus Foundation             |                   |           |
