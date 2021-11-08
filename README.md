@@ -17,7 +17,7 @@
 | Nordea Foundation                 |         y         |    y      |  [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
 | Innovation Fund Denmark           |         y?        |    n      |
 | Region Sjælland                   |         y         |    y      |   [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
-| Danish Heart Association          |                   |           |
+| Region Hovedstaden                |         y         |    n      |
 | Danish Heart Association          |                   |           |
 | Danish Rheumatism Association     |                   |           |
 | Elsass Foundation                 |                   |           |
