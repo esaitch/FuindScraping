@@ -11,8 +11,8 @@
 | Villum Foundation                 | same as velux?    |           |   
 | Carlsberg Foundation              |         y         |     y     | [carlsberg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/carlsberg_output.json)   |
 | Danish Cancer Society             |         ?         |           |      
-| Velux Foundation                  |                   |     y     | [Velux](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/velux_output.json)                                                                                                        |
-| Danish Ministry for Science and Technology|   ?       |           |
+| Velux Foundation                  |         y         |     y     | [Velux](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/velux_output.json)                                                                                                        |
+| Danish Ministry for Science and Technology| ?         |           |
 | Tryg Foundation                   |         y         |    n      |                                                                                                           |
 | Nordea Foundation                 |         y         |    y      | [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
 | Innovation Fund Denmark           |         y?        |    n      |
@@ -20,8 +20,8 @@
 | Region Hovedstaden                |         y         |    y      | [regionhovedstaden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionhovedstaden_output.json)
 | Danish Heart Association          |         ?         |           |
 | Danish Rheumatism Association     |         y         |    y      | [gigtforeningen](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
-| Elsass Foundation                 |                   |           |
-| Poul Due Jensen’s Foundation      |                   |           |
+| Elsass Foundation                 |         ?         |           |
+| Poul Due Jensen’s Foundation      |         ?         |           |
 | Augustinus Foundation             |                   |           |
 | Danish Energy Association         |                   |           |
 | Advokat Bent Thorberg’s Foundation|                   |           |
