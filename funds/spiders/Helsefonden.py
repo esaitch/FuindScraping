@@ -13,6 +13,16 @@ class HelsefondenSpider(scrapy.Spider):
     start_id = 1
     allowed_domains = ['helsefonden.dk']
 
+    '''
+    Covid projects can be found here:
+    https://helsefonden.dk/har-vi-stoettet?field_category_target_id%5B12%5D=12&combine=&t=43 
+    
+    Scrape all projects from 2020 and 2021 here:
+    https://helsefonden.dk/har-vi-stoettet?field_category_target_id%5B12%5D=12&combine=&t=All
+    
+    If the project could be found in the covid projects list, it is covid_specific    
+    '''
+
     def start_requests(self):
         yield scrapy.Request(
             url='https://helsefonden.dk/har-vi-stoettet?field_category_target_id%5B12%5D=12&combine=&t=43',
