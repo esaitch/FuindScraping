@@ -12,9 +12,9 @@
 | Carlsberg Foundation              |         y         |     y     |   [carlsberg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/carlsberg_output.json "dff output")   |
 | Danish Cancer Society             |         ?         |           |      
 | Velux Foundation                  |                   |     y     |   [Velux](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/velux_output.json)                                                                                                        |
-| Danish Ministry for Science and Technology|           |           |
-| Tryg Foundation                   |                   |           |                                                                                                           |
-| Nordea Foundation                 |                   |           |                                                                                                           |
+| Danish Ministry for Science and Technology|   ?       |           |
+| Tryg Foundation                   |         y         |    n      |                                                                                                           |
+| Nordea Foundation                 |         y         |    y      |  [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
 | Innovation Fund Denmark           |                   |           |
 
 
