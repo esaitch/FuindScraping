@@ -3,21 +3,21 @@
 ### Included funders
 | Funder                            | Scraping possible | Completed | Output                                                                                                    |
 |-----------------------------------|-------------------|-----------|-----------------------------------------------------------------------------------------------------------|
-| Independent Research Fund Denmark |         y         |     y     |   [dff](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/dff_output.json "dff output")   |
-| Danish National Research Foundation |       ?         |            |                      |
-| Novo Nordisk Foundation           |         y         |     y     |   [novo](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/novo_output.json), [novo2](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/novo2_output.json)                                                                                                       |
-| Lundbeck Foundation               |         y         |     y     |   [postdocs](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/lundbeckpostdocs_output.json) [all](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/lundbeckall_output.json)        |
-| Helsefonden                       |         y         |     y     |   [Helsefonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/helsefonden_output.json)   
+| Independent Research Fund Denmark |         y         |     y     | [dff](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/dff_output.json "dff output")   |
+| Danish National Research Foundation |       ?         |           |                      |
+| Novo Nordisk Foundation           |         y         |     y     | [novo](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/novo_output.json), [novo2](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/novo2_output.json)                                                                                                       |
+| Lundbeck Foundation               |         y         |     y     | [postdocs](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/lundbeckpostdocs_output.json) [all](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/lundbeckall_output.json)        |
+| Helsefonden                       |         y         |     y     | [Helsefonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/helsefonden_output.json)   
 | Villum Foundation                 | same as velux?    |           |   
-| Carlsberg Foundation              |         y         |     y     |   [carlsberg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/carlsberg_output.json "dff output")   |
+| Carlsberg Foundation              |         y         |     y     | [carlsberg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/carlsberg_output.json)   |
 | Danish Cancer Society             |         ?         |           |      
-| Velux Foundation                  |                   |     y     |   [Velux](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/velux_output.json)                                                                                                        |
+| Velux Foundation                  |                   |     y     | [Velux](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/velux_output.json)                                                                                                        |
 | Danish Ministry for Science and Technology|   ?       |           |
 | Tryg Foundation                   |         y         |    n      |                                                                                                           |
-| Nordea Foundation                 |         y         |    y      |  [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
+| Nordea Foundation                 |         y         |    y      | [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
 | Innovation Fund Denmark           |         y?        |    n      |
-| Region Sjælland                   |         y         |    y      |   [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
-| Region Hovedstaden                |         y         |    n      |
+| Region Sjælland                   |         y         |    y      | [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
+| Region Hovedstaden                |         y         |    y      | [regionhovedstaden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionhovedstaden_output.json)
 | Danish Heart Association          |                   |           |
 | Danish Rheumatism Association     |                   |           |
 | Elsass Foundation                 |                   |           |
