@@ -2,7 +2,6 @@
 
 import scrapy
 import re
-import pdfplumber
 
 from funds.items.fundItem import FundItem
 from funds.tools.scrapingTool import ScrapingTool
