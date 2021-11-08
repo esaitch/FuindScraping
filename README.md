@@ -11,7 +11,7 @@
 | Villum Foundation                 | same as velux?    |           |   
 | Carlsberg Foundation              |         y         |     y     |   [carlsberg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/carlsberg_output.json "dff output")   |
 | Danish Cancer Society             |         ?         |           |      
-| Velux Foundation                  |                   |           |                                                                                                           |
+| Velux Foundation                  |                   |     y     |   [Velux](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/velux_output.json)                                                                                                        |
 | Danish Ministry for Science and Technology|           |           |
 | Tryg Foundation                   |                   |           |                                                                                                           |
 | Nordea Foundation                 |                   |           |                                                                                                           |
