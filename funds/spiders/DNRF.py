@@ -25,9 +25,6 @@ class DNRFSpider(scrapy.Spider):
     Scraping all active projects, even when funding was granted before 2020, since they are still ongoing
     
     None is marked at covid related
-    
-    Manual changes: 
-        - 
     '''
 
     def parse(self, response):
