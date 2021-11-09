@@ -4,7 +4,7 @@
 | Funder                            | Scraping possible | Completed | Output                                                                                                    |
 |-----------------------------------|-------------------|-----------|-----------------------------------------------------------------------------------------------------------|
 | Independent Research Fund Denmark |         y         |     y     | [dff](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/dff_output.json "dff output")   |
-| Danish National Research Foundation |       ?         |           |                      |
+| Danish National Research Foundation |       y         |     y     | [dnrf](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/dnrf_output.json)|
 | Novo Nordisk Foundation           |         y         |     y     | [novo](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/novo_output.json), [novo2](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/novo2_output.json)                                                                                                       |
 | Lundbeck Foundation               |         y         |     y     | [postdocs](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/lundbeckpostdocs_output.json) [all](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/lundbeckall_output.json)        |
 | Helsefonden                       |         y         |     y     | [Helsefonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/helsefonden_output.json)   
@@ -22,7 +22,7 @@
 | Danish Rheumatism Association     |         y         |    y      | [gigtforeningen](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
 | Elsass Foundation                 |         ?         |           |
 | Poul Due Jensen’s Foundation      |         ?         |           |
-| Augustinus Foundation             |                   |           |
+| Augustinus Foundation             |         y         |    y      | [augustinusfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/augustinusfonden_output.json)
 | Danish Energy Association         |                   |           |
 | Advokat Bent Thorberg’s Foundation|                   |           |
 | Danish Energy Agency              |                   |           |
