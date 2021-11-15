@@ -15,7 +15,7 @@
 | Danish Ministry for Science and Technology| ?         |           |
 | Tryg Foundation                   |         y         |     y     | [tryg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/tryg_output.json)                                                                                                          |
 | Nordea Foundation                 |         y         |     y     | [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
-| Innovation Fund Denmark           |         y         |     y     | [innovationsfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/innovationsfonden_output.json)
+| Innovation Fund Denmark           |         y         |     y     | [innovationsfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/innovationsfonden_output.json), [innovationsfondencovid](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/innovationsfondencovid_output.json)
 | Region Sjælland                   |         y         |     y     | [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
 | Region Hovedstaden                |         y         |     y     | [regionhovedstaden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionhovedstaden_output.json)
 | Danish Heart Association          |         ?         |           |
