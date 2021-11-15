@@ -19,12 +19,11 @@ class VeluxVillumSpider(scrapy.Spider):
     https://veluxfoundations.dk/en/about/projects-granted#
 
     The API can be accessed here: 
-    https://www.tryghed.dk/api/donations/mix?language=da&templateName=Donation&templateName=Partner%20Project%20Page&templateName=Trygfonden%20Project%20Page
-    - the page size can be changed: &pageSize=30
+    https://veluxfoundations.dk/upload/db-en.json?r2m8j4
 
     Only including projects from 2020 and 2021
     
-    Output is then matched against the velux scraping output - if the title/name is the same, covid_specific is set to 1
+    Output is then matched against the velux covid scraping output - if the title/name is the same, covid_specific is set to 1
     '''
 
     def parse(self, response):
