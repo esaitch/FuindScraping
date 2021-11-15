@@ -20,13 +20,13 @@
 | Region Hovedstaden                |         y         |    y      | [regionhovedstaden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionhovedstaden_output.json)
 | Danish Heart Association          |         ?         |           |
 | Danish Rheumatism Association     |         y         |    y      | [gigtforeningen](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
-| Elsass Foundation                 |         ?         |           |
-| Poul Due Jensen’s Foundation      |         ?         |           |
-| Augustinus Foundation             |         y         |    y      | [augustinusfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/augustinusfonden_output.json)
+| Elsass Foundation                 |         n         |    y      | [Elsass](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
+| Poul Due Jensen’s Foundation      |         n         |    y      | [pdjf](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/pdjf_output.json)
+| Augustinus Foundation             |         y         |    y      | [augustinusfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/elsass_output.json)
 | Danish Energy Association         |                   |           |
 | Advokat Bent Thorberg’s Foundation|                   |           |
 | Danish Energy Agency              |                   |           |
-| Gangsted Foundation               |                   |           |
+| Gangsted Foundation               |         n         |    y      | [gangstedfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gangstedfonden_output.json)
 | Danish Horticulture               |                   |           |
 | Danish Sugar Beet Growers         |                   |           |
 
