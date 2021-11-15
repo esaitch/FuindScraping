@@ -15,7 +15,7 @@ class TrygFondenSpider(scrapy.Spider):
     start_urls = ['https://www.tryghed.dk/api/donations/mix?language=da&templateName=Donation&templateName=Partner%20Project%20Page&templateName=Trygfonden%20Project%20Page&pageSize=6000']
 
     '''
-    The projects can be found in a pdf here: 
+    The projects can be found here: 
     https://www.tryghed.dk/saadan-stoetter-vi/projekter-og-donationer
     
     The API can be accessed here: 
