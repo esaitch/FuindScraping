@@ -10,7 +10,7 @@
 | Helsefonden                       |         y         |     y     | [Helsefonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/helsefonden_output.json)   
 | Villum Foundation                 |         y         |     y     | [veluxvillum](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/veluxvillum_output.json)  
 | Carlsberg Foundation              |         y         |     y     | [carlsberg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/carlsberg_output.json)   |
-| Danish Cancer Society             |         ?         |           |      
+| Danish Cancer Society             |         y         |     y     | [cancersociety](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/cancersociety_output.json), [cancersociety_manual](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/cancersociety_manual_output.json)     
 | Velux Foundation                  |         y         |     y     | [veluxcovid](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/veluxcovid_output.json)                                                                                                        |
 | Danish Ministry for Science and Technology| ?         |           |
 | Tryg Foundation                   |         y         |    y      | [tryg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/tryg_output.json)                                                                                                          |
