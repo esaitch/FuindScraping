@@ -7,11 +7,16 @@ from funds.items.fundItem import FundItem
 from funds.tools.scrapingTool import ScrapingTool
 
 
-class NovoNordisk(scrapy.Spider):
-    name = 'novo2'
+class NovoNordiskArticle(scrapy.Spider):
+    name = 'novoarticle'
     pid = '03'
     allowed_domains = ['novonordiskfonden.dk']
     start_urls = ['https://novonordiskfonden.dk/en/grants-awarded-for-projects-to-mitigate-the-adverse-health-effects-of-the-coronavirus-epidemic-in-denmark/']
+
+    '''
+    all projects from this article is scraped:
+    https://novonordiskfonden.dk/en/grants-awarded-for-projects-to-mitigate-the-adverse-health-effects-of-the-coronavirus-epidemic-in-denmark/ 
+    '''
 
     def parse(self, response):
         id = 1
