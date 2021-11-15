@@ -13,20 +13,20 @@
 | Danish Cancer Society             |         y         |     y     | [cancersociety](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/cancersociety_output.json), [cancersociety_manual](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/cancersociety_manual_output.json)     
 | Velux Foundation                  |         y         |     y     | [veluxcovid](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/veluxcovid_output.json)                                                                                                        |
 | Danish Ministry for Science and Technology| ?         |           |
-| Tryg Foundation                   |         y         |    y      | [tryg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/tryg_output.json)                                                                                                          |
-| Nordea Foundation                 |         y         |    y      | [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
-| Innovation Fund Denmark           |         y?        |    n      |
-| Region Sjælland                   |         y         |    y      | [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
-| Region Hovedstaden                |         y         |    y      | [regionhovedstaden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionhovedstaden_output.json)
+| Tryg Foundation                   |         y         |     y     | [tryg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/tryg_output.json)                                                                                                          |
+| Nordea Foundation                 |         y         |     y     | [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
+| Innovation Fund Denmark           |         y         |     y     | [innovationsfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/innovationsfonden_output.json)
+| Region Sjælland                   |         y         |     y     | [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
+| Region Hovedstaden                |         y         |     y     | [regionhovedstaden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionhovedstaden_output.json)
 | Danish Heart Association          |         ?         |           |
-| Danish Rheumatism Association     |         y         |    y      | [gigtforeningen](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
-| Elsass Foundation                 |         n         |    y      | [Elsass](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
-| Poul Due Jensen’s Foundation      |         n         |    y      | [pdjf](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/pdjf_output.json)
-| Augustinus Foundation             |         y         |    y      | [augustinusfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/elsass_output.json)
+| Danish Rheumatism Association     |         y         |     y     | [gigtforeningen](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
+| Elsass Foundation                 |         n         |     y     | [Elsass](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
+| Poul Due Jensen’s Foundation      |         n         |     y     | [pdjf](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/pdjf_output.json)
+| Augustinus Foundation             |         y         |     y     | [augustinusfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/elsass_output.json)
 | Danish Energy Association         |                   |           |
 | Advokat Bent Thorberg’s Foundation|                   |           |
 | Danish Energy Agency              |                   |           |
-| Gangsted Foundation               |         n         |    y      | [gangstedfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gangstedfonden_output.json)
+| Gangsted Foundation               |         n         |     y     | [gangstedfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gangstedfonden_output.json)
 | Danish Horticulture               |                   |           |
 | Danish Sugar Beet Growers         |                   |           |
 
