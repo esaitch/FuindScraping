@@ -8,7 +8,7 @@ from funds.items.fundItem import FundItem
 from funds.tools.scrapingTool import ScrapingTool
 
 
-class NovoNordiskAll(scrapy.Spider):
+class NovoNordiskAllSpider(scrapy.Spider):
     name = 'novoall'
     pid = '20'
     start_id = 1

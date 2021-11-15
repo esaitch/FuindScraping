@@ -7,7 +7,7 @@ from funds.items.fundItem import FundItem
 from funds.tools.scrapingTool import ScrapingTool
 
 
-class NovoNordiskArticle(scrapy.Spider):
+class NovoNordiskArticleSpider(scrapy.Spider):
     name = 'novoarticle'
     pid = '03'
     allowed_domains = ['novonordiskfonden.dk']

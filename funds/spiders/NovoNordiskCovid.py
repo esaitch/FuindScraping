@@ -7,7 +7,7 @@ from funds.items.fundItem import FundItem
 from funds.tools.scrapingTool import ScrapingTool
 
 
-class NovoNordiskCovid(scrapy.Spider):
+class NovoNordiskCovidSpider(scrapy.Spider):
     name = 'novocovid'
     pid = '02'
     start_id = 1
