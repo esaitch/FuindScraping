@@ -8,12 +8,12 @@
 | Novo Nordisk Foundation           |         y         |     y     | [novo](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/novo_output.json), [novo2](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/novo2_output.json)                                                                                                       |
 | Lundbeck Foundation               |         y         |     y     | [postdocs](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/lundbeckpostdocs_output.json) [all](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/lundbeckall_output.json)        |
 | Helsefonden                       |         y         |     y     | [Helsefonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/helsefonden_output.json)   
-| Villum Foundation                 | same as velux?    |           |   
+| Villum Foundation                 |         y         |     y     | [veluxvillum](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/veluxvillum_output.json)  
 | Carlsberg Foundation              |         y         |     y     | [carlsberg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/carlsberg_output.json)   |
 | Danish Cancer Society             |         ?         |           |      
-| Velux Foundation                  |         y         |     y     | [Velux](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/velux_output.json)                                                                                                        |
+| Velux Foundation                  |         y         |     y     | [veluxcovid](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/veluxcovid_output.json)                                                                                                        |
 | Danish Ministry for Science and Technology| ?         |           |
-| Tryg Foundation                   |         y         |    y      | [Tryg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/tryg_output.json)                                                                                                          |
+| Tryg Foundation                   |         y         |    y      | [tryg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/tryg_output.json)                                                                                                          |
 | Nordea Foundation                 |         y         |    y      | [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
 | Innovation Fund Denmark           |         y?        |    n      |
 | Region Sjælland                   |         y         |    y      | [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
