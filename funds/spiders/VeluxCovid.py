@@ -7,8 +7,8 @@ from funds.items.fundItem import FundItem
 from funds.tools.scrapingTool import ScrapingTool
 
 
-class VeluxSpider(scrapy.Spider):
-    name = 'velux'
+class VeluxCovidSpider(scrapy.Spider):
+    name = 'veluxcovid'
     pid = '08'
     start_id = 1
     allowed_domains = ['veluxfoundations.dk']
