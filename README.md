@@ -13,7 +13,7 @@
 | Danish Cancer Society             |         ?         |           |      
 | Velux Foundation                  |         y         |     y     | [Velux](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/velux_output.json)                                                                                                        |
 | Danish Ministry for Science and Technology| ?         |           |
-| Tryg Foundation                   |         y         |    n      |                                                                                                           |
+| Tryg Foundation                   |         y         |    y      | [Tryg](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/tryg_output.json)                                                                                                          |
 | Nordea Foundation                 |         y         |    y      | [nordea](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/nordea_output.json)                                                                                                         |
 | Innovation Fund Denmark           |         y?        |    n      |
 | Region Sjælland                   |         y         |    y      | [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
