@@ -18,7 +18,7 @@
 | Innovation Fund Denmark           |         y         |     y     | [innovationsfonden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/innovationsfonden_output.json), [innovationsfondencovid](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/innovationsfondencovid_output.json)
 | Region Sjælland                   |         y         |     y     | [regionsjaelland](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionsjaelland_output.json)
 | Region Hovedstaden                |         y         |     y     | [regionhovedstaden](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/regionhovedstaden_output.json)
-| Danish Heart Association          |         ?         |           |
+| Danish Heart Association          |         n         |     y     | [hjerteforeningen](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/hjerteforeningen_output.json)
 | Danish Rheumatism Association     |         y         |     y     | [gigtforeningen](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
 | Elsass Foundation                 |         n         |     y     | [Elsass](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/gigtforeningen_output.json)
 | Poul Due Jensen’s Foundation      |         n         |     y     | [pdjf](https://github.com/esaitch/FundScraping/blob/master/funds/outputs/pdjf_output.json)
