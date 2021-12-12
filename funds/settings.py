@@ -9,9 +9,9 @@
 
 BOT_NAME = 'funds'
 
-SPIDER_MODULES = ['funds.spiders']
+SPIDER_MODULES = ['funds.spiders', 'funds.emails']
 NEWSPIDER_MODULE = 'funds.spiders'
-
+NEWSPIDER_MODULE = 'funds.emails'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'funds (+http://www.yourdomain.com)'
